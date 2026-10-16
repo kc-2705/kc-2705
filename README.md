@@ -29,6 +29,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**Playverse**](https://github.com/kc-2705/playverse) · [play](https://playverse-rsbt.onrender.com) | 3D game hub with four browser games, accounts, leaderboards and online multiplayer | React, TypeScript, Babylon.js, Node.js, MongoDB, Socket.IO |
 | [**Expenso**](https://github.com/kc-2705/expense-management-app) | Personal finance tracker with budgets, recurring payments, CSV import/export and a secure JWT API | MERN, Ant Design, React Query |
 | [**Ask Past Me**](https://github.com/kc-2705/ask-past-me) | Offline Android voice journal that tags your notes and answers questions about your past | React Native, Expo, TypeScript, SQLite |
 | [**OrderDesk**](https://github.com/kc-2705/orders-management-app) · [live](https://kc-2705.github.io/orders-management-app/) | Order management dashboard with filters, order lines and KPIs | React, Vite, Ant Design |
